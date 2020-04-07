@@ -1,0 +1,6 @@
+sudo apt install python3-venv - установка виртуалки
+mkdir django - создание папки
+cd django - переходим в эту папку
+python3 -m venv venv - создать виртуалку
+
+source venv/bin/activate - войти в создаггую виртуалку
